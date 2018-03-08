@@ -1,0 +1,7 @@
+Kontiki, Kusadasi, 26.06.2013., 7, 200
+Filip, Santorini, 29.06.2013., 10, 400
+Robinson, Hurgada, 02.07.2013., 14, 850
+Filip, Tasos, 03.07.2013., 10, 300
+Robinson, Tasos, 25.06.2013., 7, 200
+Andjela, Tasos, 03.08.2013., 10, 300
+Mladen, Tasos, 03.08.2013., 10, 450
